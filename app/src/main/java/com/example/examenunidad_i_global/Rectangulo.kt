@@ -1,8 +1,10 @@
 package com.example.examenunidad_i_global
 
-class Rectangulo {
-    private val base: Float = 0.0f
-    private val altura: Float = 0.0f
+import java.io.Serializable
+
+class Rectangulo : Serializable{
+    var base: Float = 0.0f
+    var altura: Float = 0.0f
 
     fun calculoArea() : Float {
         return base * altura
