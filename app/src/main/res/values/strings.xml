@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">examenUnidad_I_Global</string>
+
+    <string name="tituloMain">Calculos del Rectángulo</string>
+    <string name="txtNombre">Escribe aquí tu Nombre</string>
+    <string name="txtBase">Escribe aquí la base del rectángulo</string>
+    <string name="txtAltura">Escribe aquí la altura del rectángulo</string>
+
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnSalir">Salir</string>
+
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnRegresar">Regresar</string>
+
+    <string name="peticion">¿Qué deseas calcular?</string>
+    <string name="opcA">Área</string>
+    <string name="opcB">Perímetro</string>
+
+    <string name="resA">El Área es:</string>
+    <string name="resB">El Perímetro es:</string>
 </resources>
